@@ -1,3 +1,4 @@
+# https://cses.fi/paste/429f467d49a621679608db/
 import math
 import sys
 import threading
